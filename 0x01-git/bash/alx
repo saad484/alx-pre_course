@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 ALX School is so cool!
+=======
+#!bin/bash
+ALX School
+>>>>>>> 9f159ecc1212fd4c1f7c8b2f1df8f6182c3a4d6f
